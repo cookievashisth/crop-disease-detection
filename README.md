@@ -57,7 +57,7 @@ The model includes a plot comparing actual vs. predicted yields using Gradient B
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/Ujjwal-44/crop-disease-detection.git
+   git@github.com:cookievashisth/crop-disease-detection.git
    cd crop-disease-detection
 pip install -r requirements.txt
 python crop_disease_model.py
